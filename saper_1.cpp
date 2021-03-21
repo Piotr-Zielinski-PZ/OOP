@@ -1,3 +1,6 @@
+//Alex Jastrowski 259646
+//Piotr Zieliński 259628
+
 #include <iostream>
 #include <string>
 #include <vector>
