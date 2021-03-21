@@ -14,7 +14,6 @@ struct Student
     string nr_pesel;
     int nr_indeksu;
     double srednia;
-
 };
 
 struct BazaStudentow
